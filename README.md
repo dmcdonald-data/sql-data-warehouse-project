@@ -6,5 +6,6 @@ This project was created to demonstrate my ability to follow the steps of creati
 Building modern data warehouse with SQL Server, including ETL processes, data modeling and analytics.
 --------------------------------------------------------------------------------------------------
 My Name is Denzel McDonald, a Business Analyst who occasionally dives in Business Intelligence.
-I followed this project from Youtube channel Data with Baraa as a practice project to see the steps necessary for industry standard Database projects
+I followed this project from Youtube channel Data with Baraa as a practice project to see the steps necessary for industry standard Database projects. 
+----------------------------------------------------------------------------------------------------
 This is hopefully one of many projects to come!
